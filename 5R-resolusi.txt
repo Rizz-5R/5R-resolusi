@@ -2,3 +2,5 @@
 -Konsisten belajar membuat source code 
 -Membuat pemograman website untuk proses belajar
 -Membuka forum diskusi          
+-tutorial JavaScript
+-Proses pembelajaran JS
